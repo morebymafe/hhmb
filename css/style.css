@@ -5,6 +5,15 @@
     --dark: #00AEEF;
 }
 
+#carol-shoe{
+    background: url('../hhmfb/shoemaker.jpg');
+}
+#carol-welder{
+    background: url('../hhmfb/welder.jpg');
+}
+#carol-shoe{
+    background: url('../hhmfb/trader.jpg');
+}
 
 /*** Spinner ***/
 #spinner {
@@ -217,7 +226,7 @@
 .hero-header {
     margin-bottom: 6rem;
     padding: 12rem 0 9rem 0;
-    background: url(../img/shape-bottom.png) center bottom no-repeat;
+    /* background: url(../img/shape-bottom.png) center bottom no-repeat; */
 }
 
 .page-header {
